@@ -4,7 +4,15 @@ Alessandro Lorenzini [[GitHub](https://github.com/alelore6), [Kaggle](https://ww
 Manuela Benini [[GitHub](https://github.com/manubenni), [Kaggle](https://www.kaggle.com/nunu02)] <br>
 Daniel Giuseppe Boi [[GitHub](https://github.com/Dany02sw), [Kaggle](https://www.kaggle.com/danielboi)] <br>
 
+## Results
+First challenge (images classification of blood cells): 74% on test accuracy and final grade of 5/5.5 <br>
+Second challenge (semantic segmentation of Mars terrains): 62% on test MIoU and final grade of _/5.5
+
 ## Notebooks
+[First challenge](Challenge%201) <br>
+[Second challenge](Challenge%202) <br>
 ## Reports
+[First challenge](Challenge%201/report.pdf) <br>
+[Second challenge](Challenge%202/report.pdf) <br>
 
 [**Politecnico di Milano**]: https://www.polimi.it/
