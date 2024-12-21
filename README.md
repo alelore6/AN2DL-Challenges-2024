@@ -5,8 +5,8 @@ Manuela Benini [[GitHub](https://github.com/manubenni), [Kaggle](https://www.kag
 Daniel Giuseppe Boi [[GitHub](https://github.com/Dany02sw), [Kaggle](https://www.kaggle.com/danielboi)] <br>
 
 ## Results
-First challenge (images classification of blood cells): 74% on test accuracy and final grade of 5/5.5 <br>
-Second challenge (semantic segmentation of Mars terrains): 62% on test MIoU and final grade of _/5.5
+First challenge (images classification of blood cells): 74% on test accuracy and final grade of 5.0/5.5 <br>
+Second challenge (semantic segmentation of Mars terrains): 62% on test MIoU and final grade of 5.0/5.5
 
 ## Notebooks
 [First challenge](Challenge%201) <br>
